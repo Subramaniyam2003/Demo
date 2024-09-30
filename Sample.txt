@@ -1,1 +1,1 @@
-Sample work file inside the visual studio code
+Sample work file inside the visual studio code sample checking 001
