@@ -1,1 +1,3 @@
 The second sample file git_vscode_001
+
+the changes has been made here...
